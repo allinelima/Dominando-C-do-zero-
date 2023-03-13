@@ -1,0 +1,15 @@
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/bin/Debug/net7.0/Teste
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/bin/Debug/net7.0/Teste.deps.json
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/bin/Debug/net7.0/Teste.runtimeconfig.json
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/bin/Debug/net7.0/Teste.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/bin/Debug/net7.0/Teste.pdb
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/obj/Debug/net7.0/Teste.csproj.AssemblyReference.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/obj/Debug/net7.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/obj/Debug/net7.0/Teste.AssemblyInfoInputs.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/obj/Debug/net7.0/Teste.AssemblyInfo.cs
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/obj/Debug/net7.0/Teste.csproj.CoreCompileInputs.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/obj/Debug/net7.0/Teste.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/obj/Debug/net7.0/refint/Teste.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/obj/Debug/net7.0/Teste.pdb
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/obj/Debug/net7.0/Teste.genruntimeconfig.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Teste/obj/Debug/net7.0/ref/Teste.dll
