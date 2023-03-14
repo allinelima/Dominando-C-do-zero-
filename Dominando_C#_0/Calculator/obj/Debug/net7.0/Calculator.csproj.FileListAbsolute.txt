@@ -1,0 +1,15 @@
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/bin/Debug/net7.0/Calculator
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/Calculator/obj/Debug/net7.0/ref/Calculator.dll
