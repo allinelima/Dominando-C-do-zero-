@@ -1,0 +1,15 @@
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/bin/Debug/net7.0/stopwatch
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/bin/Debug/net7.0/stopwatch.deps.json
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/bin/Debug/net7.0/stopwatch.runtimeconfig.json
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/bin/Debug/net7.0/stopwatch.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/bin/Debug/net7.0/stopwatch.pdb
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/obj/Debug/net7.0/stopwatch.csproj.AssemblyReference.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/obj/Debug/net7.0/stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/obj/Debug/net7.0/stopwatch.AssemblyInfoInputs.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/obj/Debug/net7.0/stopwatch.AssemblyInfo.cs
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/obj/Debug/net7.0/stopwatch.csproj.CoreCompileInputs.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/obj/Debug/net7.0/stopwatch.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/obj/Debug/net7.0/refint/stopwatch.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/obj/Debug/net7.0/stopwatch.pdb
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/obj/Debug/net7.0/stopwatch.genruntimeconfig.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/Dominando-C-do-zero-/Dominando_C#_0/stopwatch/obj/Debug/net7.0/ref/stopwatch.dll
